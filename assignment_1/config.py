@@ -13,7 +13,7 @@ GRID = [
 
 # mapping of squares to rewards
 REWARD_MAPPING = {
-    ' ': -0.04,  # white square
+    ' ': -0.05,  # white square
     'g': 1.0,  # green square
     'b': -1.0,  # brown square
 }
